@@ -21,7 +21,7 @@ Redes Sociais
 <!DOCTYPE html>
 <html>
 <head>
-    <title>div da cor vermelha</title>
+    <title>Exemplo de Cor de Fundo</title>
 </head>
 <body>
     <div style="background-color: red;">
@@ -29,3 +29,30 @@ Redes Sociais
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de Cor do Texto</title>
+</head>
+<body>
+    <p style="color: blue;">
+        Este é um parágrafo com texto azul.
+    </p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de Classe CSS</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+<body>
+    <div class="vermelho">
+        Este é um div com a classe "vermelho".
+    </div>
+</body>
+</html>
+.vermelho {
+    background-color: red;
+    color: white;
+}
