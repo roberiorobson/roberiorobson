@@ -1,16 +1,23 @@
-### Hi there 👋
+<!-- Título -->
+Olá, eu sou o roberirobson 👋
+<!-- Subtítulo -->
+Sobre mim
+gosto do ramo de informatica e estudo no estudo federal baiano eu me enteressei por esse curso e quis aproveitar a chance q eu conseguir para estudar nesse ramo
 
-<!--
-**roberiorobson/roberiorobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Ícones de Redes Sociais -->
+Redes Sociais
+[![GitHub](https://img.shields.io/badge/GitHub-Username-purple)](https://github.com/roberiorobson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Username-blue)](https://www.linkedin.com/in/roberiorobson)
+[![Twitter](https://img.shields.io/badge/Twitter-Username-white)](https://twitter.com/roberiorobson)
 
-Here are some ideas to get you started:
+<!-- Stats -->
+!GitHub stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Linguagens -->
+!html e css
+
+<!-- Footer -->
+<hr>
+<p align="center">
+  Feito com ❤️ por roberiorobson
+</p>
