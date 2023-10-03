@@ -10,9 +10,6 @@ Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/Instagram-___5JUNIOR5___-blue)](https://www.linkedin.com/in/roberiorobson)
 [![Twitter](https://img.shields.io/badge/Twitter-nenhum-white)](https://twitter.com/roberiorobson)
 
-<!-- Stats -->
-!GitHub stats
-
 <!-- Linguagens -->
 !html e css
 
