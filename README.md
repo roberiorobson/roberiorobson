@@ -18,25 +18,14 @@ Redes Sociais
 <p align="center">
   Feito com ❤️ por roberiorobson
 </p>
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title>20:49</title>
-    <script>
-        function mostrarDataHora() {
-            var dataHoraAtual = new Date();
-            var data = dataHoraAtual.toLocaleDateString();
-            var hora = dataHoraAtual.toLocaleTimeString();
-            document.getElementById("data-hora").innerHTML = "Data: " + data + "<br>Hora: " + hora;
-        }
-
-        // Chama a função inicialmente e, em seguida, a atualiza a cada segundo
-        mostrarDataHora();
-        setInterval(mostrarDataHora, 1000);
-    </script>
+    <title>div da cor vermelha</title>
 </head>
 <body>
-    <div id="data-hora"></div>
+    <div style="background-color: red;">
+        Esta é uma div com fundo vermelho.
+    </div>
 </body>
 </html>
