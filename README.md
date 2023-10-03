@@ -6,9 +6,9 @@ gosto do ramo de informatica e estudo no estudo federal baiano eu me enteressei 
 
 <!-- Ícones de Redes Sociais -->
 Redes Sociais
-[![GitHub](https://img.shields.io/badge/GitHub-Username-purple)](https://github.com/roberiorobson)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Username-blue)](https://www.linkedin.com/in/roberiorobson)
-[![Twitter](https://img.shields.io/badge/Twitter-Username-white)](https://twitter.com/roberiorobson)
+[![GitHub](https://img.shields.io/badge/GitHub-roberiorobson-purple)](https://github.com/roberiorobson)
+[![LinkedIn](https://img.shields.io/badge/Instagram-___5JUNIOR5___-blue)](https://www.linkedin.com/in/roberiorobson)
+[![Twitter](https://img.shields.io/badge/Twitter-eu-n-tenho-twitterksksksk-white)](https://twitter.com/roberiorobson)
 
 <!-- Stats -->
 !GitHub stats
