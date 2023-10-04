@@ -3,8 +3,8 @@ Olá, eu sou o roberirobson 👋
 <!-- Subtítulo -->
 Sobre mim
 gosto do ramo de informatica e estudo no estudo federal baiano eu me enteressei por esse curso e quis aproveitar a chance q eu conseguir para estudar nesse ramo
-.tenho 17 anos
-.moro em Guanambi
+,tenho 17 anos
+,moro em Guanambi
 
 <!-- Ícones de Redes Sociais -->
 Redes Sociais
