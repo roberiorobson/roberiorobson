@@ -1,5 +1,5 @@
 <!-- Título -->
-Olá, eu sou o roberirobson 👋
+Olá, eu sou o robertorobson 👋
 <!-- Subtítulo -->
 Sobre mim
 gosto do ramo de informatica e estudo no estudo federal baiano eu me enteressei por esse curso e quis aproveitar a chance q eu conseguir para estudar nesse ramo
